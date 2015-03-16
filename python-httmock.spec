@@ -12,7 +12,7 @@
 
 Name: python-%{pkgname}
 Summary: A mocking library for requests
-Version: 1.2.2
+Version: 1.2.3
 Release: 1%{?dist}
 License: Apache License, Version 2.0
 
